@@ -10,4 +10,4 @@ Proiectul de față propune realizarea unei baze de date spațiale dedicate infr
 
 •	apa, apa_point, apa_poly, apa_line, statii_transport_apa
 
-![Diagrame](C:\GIS_I_Semestrul_II\Databases\examen_sem_II_lukacs_adela\Diagrame.drawio)
+![Diagrame](C:\GIS_I_Semestrul_II\Databases\examen_sem_II_lukacs_adela\Diagrame.drawio.png)
