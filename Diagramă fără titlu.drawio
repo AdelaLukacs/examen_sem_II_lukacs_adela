@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Pagină-1" id="VS28KrAuoF9FPVjem3TP">
-    <mxGraphModel dx="2395" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3064" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1099,7 +1099,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lEAxfnKOA9IEq82XLSyS-285" value="zone_recreative" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="587.5" y="1110" width="205" height="150" as="geometry" />
+          <mxGeometry x="587.5" y="1110" width="205" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lEAxfnKOA9IEq82XLSyS-286" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="lEAxfnKOA9IEq82XLSyS-285">
           <mxGeometry y="30" width="205" height="30" as="geometry" />
@@ -1136,19 +1136,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lEAxfnKOA9IEq82XLSyS-300" value="id_spatii_verzi integer not null" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="lEAxfnKOA9IEq82XLSyS-298">
-          <mxGeometry x="30" width="175" height="30" as="geometry">
-            <mxRectangle width="175" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lEAxfnKOA9IEq82XLSyS-301" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="lEAxfnKOA9IEq82XLSyS-285">
-          <mxGeometry y="120" width="205" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lEAxfnKOA9IEq82XLSyS-302" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="lEAxfnKOA9IEq82XLSyS-301">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lEAxfnKOA9IEq82XLSyS-303" value="id_tip_activitate_recreativa integer not null" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="lEAxfnKOA9IEq82XLSyS-301">
           <mxGeometry x="30" width="175" height="30" as="geometry">
             <mxRectangle width="175" height="30" as="alternateBounds" />
           </mxGeometry>
